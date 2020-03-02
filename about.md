@@ -12,4 +12,4 @@ permalink: /about/
 
 ### لمراسلتي
 
-[email@domain.com](mailto:email@domain.com)
+[a@ahmd.me](mailto:a@ahmd.me)
