@@ -1,1 +1,1 @@
-Personal Blog - مدونة شخصية
+Blog - مدونة
