@@ -35,7 +35,7 @@ google_analytics: 140854163
 url: ahmd.me
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: "ahmd.me"
+baseurl: ""
 
 
 # Jekyll variables
