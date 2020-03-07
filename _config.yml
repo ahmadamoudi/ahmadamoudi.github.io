@@ -33,10 +33,10 @@ google_analytics: UA-159925723-1
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
-url: ahmd.me
+url:
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: "ahmdmo.github.io/blog"
+baseurl: "https://ahmdmo.github.io/blog"
 
 
 # Jekyll variables
