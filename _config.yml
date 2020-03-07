@@ -19,8 +19,8 @@ footer-links:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: i7mada
-  stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
-  youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
+  stackoverflow: # "users/50476/bart-k"
+  youtube: 
 
 
 # ضع الاسم Disqus القصير الخاص بك (الاسم القصير وليس اسم المستخدم) لتفعيل الردود على المدونة
@@ -36,7 +36,7 @@ google_analytics: UA-159925723-1
 url: ahmd.me
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: ""
+baseurl: "/blog"
 
 
 # Jekyll variables
