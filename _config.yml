@@ -1,13 +1,12 @@
-# اسم المدونة الذي سيظهر في الأعلى
+# Name 
 name: أحمد
 
-# وصف قصير للمدونة والذي سيظهر تحت اسمها وكجزء من عنوان المدونة في محركات البحث
+# Desc
 description: مدونة وأكثر..
 
 avatar: https://github.com/ahmdmo.png
 
 
-# لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
   dribbble:
   email: a@ahmd.me
@@ -15,11 +14,11 @@ footer-links:
   flickr:
   github: ahmdmo
   instagram:
-  linkedin:
+  linkedin: ahmadmo
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: i7mada
-  stackoverflow: # "users/50476/bart-k"
+  stackoverflow: # "users/50476/bart9"
   youtube: 
 
 
