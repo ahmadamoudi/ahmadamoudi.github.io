@@ -17,7 +17,7 @@ footer-links:
   instagram:
   linkedin: #ahmadmo
   pinterest:
-  rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
+  rss: 1 # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: i7mada
   stackoverflow: # "users/50476/bart9"
   youtube: 
