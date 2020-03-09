@@ -9,4 +9,4 @@ published: true
 
 ### للتواصل:
 
-[a@ahmd.me](mailto:a@ahmd.me)
+[Twitter](http://twitter.com/i7mada)
