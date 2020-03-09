@@ -9,4 +9,4 @@ published: true
 
 ### للتواصل:
 
-[Twitter](http://twitter.com/i7mada)
+[تويتر](http://twitter.com/i7mada)
