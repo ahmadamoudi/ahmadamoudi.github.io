@@ -45,3 +45,10 @@ echo “Hello world!”;
 
 ----
 فضلت ان يكون تصميم المدونة بسيط قدر الإمكان٬ والتركيز على جودة المحتوى٬ ومازال الموقع تحت التطوير.
+
+
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
