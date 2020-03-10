@@ -18,7 +18,7 @@ print(“Hello World in Python!”)
 
 لغة R:
 
-```R
+```r
 print(“Hello World in R!”)
 ```
 
