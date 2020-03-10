@@ -24,7 +24,7 @@ print(“Hello World in R!”)
 
 جافا:
 
-```Java
+```java
 System.out.print(“Hello World in Java!”);
 ```
 
