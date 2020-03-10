@@ -28,11 +28,6 @@ print(“Hello World in R!”)
 System.out.print(“Hello World in Java!”);
 ```
 
-php:
-
-```php
-echo “Hello world!”;
-```
 
 ---
 بعد عدة محاولات لي في التدوين بإنشاء مدونات خلال السنوات الماضية والتي باءت بالفشل لعدة أسباب..
