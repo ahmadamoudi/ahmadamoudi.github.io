@@ -11,22 +11,22 @@ title: أهلا بالعالم
 يختلف امر الطباعة من لغة برمجية إلى أخرى وقد تتشابه في بعض اللغات٬ بدايةً سأقوم بكتابة امر الطباعة بلغات البرمجة التي أجيدها:
 
 بايثون:
-```
+```python
 print(“Hello World in Python!”)
 ```
 
 لغة R:
-```
+```R
 print(“Hello World in R!”)
 ```
 
 جافا:
-```
+```java
 System.out.print(“Hello World in Java!”);
 ```
 
 php:
-```
+```php
 echo “Hello world!”;
 ```
 
