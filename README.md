@@ -1,5 +1,4 @@
 Blog - مدونة
 
-[Main](http://ahmd.me)
 
-[Blog](http://ahmd.me/blog)
+- [Blog](http://ahmd.me/blog)
