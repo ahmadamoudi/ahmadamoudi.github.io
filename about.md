@@ -1,6 +1,6 @@
 ---
 layout: page
-title: من أنا
+title: عنّي
 published: true
 ---
 
