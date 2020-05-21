@@ -10,12 +10,12 @@ avatar: https://github.com/ahmdmo.png
 footer-links:
   webpage: http://ahmd.me
   dribbble:
-  email: #a@ahmd.me
+  email: hi@ahmd.me
   facebook:
   flickr:
-  github: #ahmdmo
+  github: ahmdmo
   instagram:
-  linkedin: #ahmadmo
+  linkedin: ahmadmo
   pinterest:
   rss: 1 # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: i7mada
@@ -23,11 +23,9 @@ footer-links:
   youtube: 
 
 
-# ضع الاسم Disqus القصير الخاص بك (الاسم القصير وليس اسم المستخدم) لتفعيل الردود على المدونة
-# ستجد الاسم القصير الخاص بك في إعدادات حسابك في Disqus
 disqus: ahmmd
 
-# إذا أردت تفعيل إحصاءات الزوار في Google Analytics أدخل المعرف الخاص بك (مثلاً UA-2110908-2)
+# Google Analytics
 google_analytics: UA-159925723-1
 
 
