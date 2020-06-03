@@ -9,4 +9,4 @@ published: true
 
 ### للتواصل:
 
-[تويتر](http://twitter.com/i7mada)
+يمكنك التواصل معي عن طريق [البريد الالكتروني](mailto:hi@ahmd.me) او  [تويتر](http://twitter.com/i7mada)
