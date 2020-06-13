@@ -12,6 +12,17 @@ layout: default
 
   <div class="date">
     كُتب في {{ page.date | date: "%d/%m/%Y" }}
+    
+    <ul class="tag">
+      {% for tag in page.tags %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+          {{ tag }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+ 
   </div>
 
   {% include disqus.html %}
