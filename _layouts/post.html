@@ -5,11 +5,7 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
+  
   <div class="date">
     كُتب في {{ page.date | date: "%d/%m/%Y" }}
     
@@ -24,6 +20,12 @@ layout: default
     </ul>
  
   </div>
+  
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  
 
   {% include disqus.html %}
 </article>
