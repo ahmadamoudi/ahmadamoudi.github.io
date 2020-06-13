@@ -108,14 +108,40 @@ ul {
 
 ol {
   list-style-type: arabic-indic;
+  counter-reset: section;
+
+  > li:before {
+    counter-increment: section;
+    content: "";
+    padding-right: $ol-bullets-right-space;
+    font-family: $ol-bullets-font;
+    font-size: $ol-bullets-font-size;
+    line-height: $ol-bullets-font-line-height;
+  }
 }
 
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
+ol, ul {
+  > li {
+    margin: 0 auto $li-bottom-space $li-bullets-width;
+    line-height: $li-line-height;
+    padding-right: 1em;
+    margin-right: 1em;
+
+    > ol,
+    > ul {
+      margin-top: $li-bottom-space;
+    }
+  }
 }
 
-ul ul, ol ul {
-  list-style-type: circle;
+li {
+  > ol,
+  > ul {
+    > li {
+      font-size: ($li-child-size-ratio * 1em);
+      margin: 0 auto ($li-bottom-space * $li-child-size-ratio) ($li-bullets-width * $li-child-size-ratio);
+    }
+  }
 }
 
 em, i {
